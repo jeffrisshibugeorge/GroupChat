@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "531050619093",
+    "firebase_url": "https://groupchat-ac968.firebaseio.com",
+    "project_id": "groupchat-ac968",
+    "storage_bucket": "groupchat-ac968.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531050619093:android:3284157bf1621f3f",
+        "android_client_info": {
+          "package_name": "com.maps.jeffris.groupchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531050619093-ep8ce83n3d8cp6qp1qst7d0ec8eq5mgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE3X2K7ldvQoxUX-6OMXZ-EtNYppf0QsE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
